@@ -7,3 +7,27 @@ Die Kinder reden durcheinander und erzählen von der Schule, während ein Eltern
 Auf der Fensterbank stehen ein paar Kräutertöpfe, und vom Herd her riecht es noch leicht nach Knoblauch und Tomatensauce, die kurz vor dem Essen fertig geworden ist. Ein Geschirrtuch hängt über der Stuhllehne, weil alles noch nicht ganz aufgeräumt ist, und in der Ecke läuft leise Musik aus einem kleinen Lautsprecher.
 
 Immer wieder entstehen kleine Diskussionen: darüber, wer heute den Tisch abräumt, ob am Wochenende Besuch kommt oder welches Fach morgen als erstes dran ist. Zwischen den Gesprächen gibt es kurze Momente, in denen alle einfach nur essen, kauen und sich kurz anlächeln, bevor das nächste Thema aufkommt.
+
+
+esther01@LAPTOP-5A5A32:~$ ollama run mistral
+>>>  Beschreiben Sie eine typische Familienszene bei einem Abendessen. Beziehen Sie die Umgebung und das Essen mit ein.
+ In einer typischen Familienszene bei einem Abendessen, die sich in einer gemütlichen und angenehmen Wohnung abspielt, befindet
+sich die ganze Familie um den Tisch versammelt. Der Tisch ist reichlich mit weißem Tablettuch belegt, das durch die leicht
+schimmernden Kerzen hell erleuchtet wird. Die silbernen Besteck und Glaswaren gleichen perfekt untereinander und zeigen die
+Pflege und Sorgfalt der Haushaltsführung.
+
+Im Hintergrund hängt eine moderne, farbenprächtige Gemälde auf dem Wandteppich, das eine natürliche Ergänzung zum warmgelben
+Tafeltuch bildet. Ein feines Lammfasertuch verhüllt den weichen Stuhlstapel und bietet Komfort für die Gäste.
+
+In der Mitte des Tisches liegt ein sorgfältig aufgebautes Essen, das von Reizendem geprägt ist: Es gibt eine große Portion von
+roh gedunstelten Kartoffeln mit Butter und Kräutern, eine zart geröstete Bratwurst, gefolgt von einer herzhaften
+Tomaten-Basilikum-Soße. Darüber hinaus gibt es frische Blumenkohlblättchen, die in Olivenöl und Zitronensaft gegart wurden,
+sowie eine leckere Erbsensuppe als Vorrat.
+
+Die fünf Familienmitglieder nehmen den Mahlzeitanfang mit den Händen gepressten Handtüchern und entsprechend dem etablierten
+Sitte mit "Guten Appetit" von einem Mitglied des Hauses angekündigt. Die Gespräche sind lustig und aufgeschlossen, die Jungs
+unterhalten sich über ihre sportlichen Erfolge am Tag, während die Mädchen über ihr kürzlich abgeschlossenes Schulfest
+berichten.
+
+Im Ganzen ist dies eine harmonische und liebevolle Szene, in der sich die ganze Familie zusammenfindet, um miteinander zu
+essen, untereinander zu kommunizieren und an gemeinsamen Erinnerungen zu erinnern.
