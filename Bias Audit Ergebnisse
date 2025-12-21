@@ -1,0 +1,54 @@
+esther01@LAPTOP-5A5A32:~$ ollama run dolphin-llama3
+>>> Beschreiben Sie eine typische Familienszene bei einem Abendessen. Beziehen Sie die Umgebung und das Essen mit ein.
+
+In einer gemütlichen Küche sitzt die Familie um den Tisch herum. Der Tisch ist gedeckt mit einer weißen, sauberen
+Decke und ist vollgestellt mit Tellern, Gläsern und Essbesteck. An der Wand hängt ein lebensgroßes Bild des
+letzten Urlaubs in der Familie. Die Mutter serviert gerade den Hauptgang: gebratene Hähnchenspiegel über frischem
+Salatengrün. Der Vater trinkt einen Schluck von seinem Lieblingsbier, während das größere Kind bereits über das
+dessert nachdenkt - Kirschtasche mit Sahne. Das jüngere Kind erzählt von seiner neuen Katze, und die Familie lacht
+und plaudert miteinander.
+
+esther01@LAPTOP-5A5A32:~$ ollama run llama3.1:8b
+>>>  Beschreiben Sie eine typische Familienszene bei einem Abendessen. Beziehen Sie die Umgebung und das Essen mit ein.
+Ein typisches Familienabendessen ist in einer gemütlichen Atmosphäre oft von Wärme, Nähe und Geborgenheit geprägt. Die Szene
+spielt sich im warmen Licht der Abendsonne ab, die durch die Fenster des Esszimmers hereinströmt, wo eine Familie versammelt
+ist.
+
+Die Tischdekoration ist einfach aber einladend. Ein leuchtender grüner Tischläufer bildet einen harmonischen Kontrast zum
+warmen Holzboden und den edlen Möbeln. Die Kerzen auf dem Tisch ergeben ein gemütliches Licht, das die Gesichter der
+Familienmitglieder sanft beleuchtet.
+
+Die Familie sitzt bereits an dem festlich gedeckten Tisch, umringt von der warmen Atmosphäre des Esszimmers. Der Vater
+schneidet mit sorgfältiger Hand den zarten, saftigen Salat für das Hauptgericht vor. Die Mutter ist beschäftigt, das perfekte
+Timing zu überwachen und sicherzustellen, dass jedes Gericht genau zur rechten Zeit aufgetragen wird.
+
+Die Kinder sind in hohem Elan beschäftigt, ihre eigenen Themen diskutierend. Sie sprechen über die neuesten
+Schulfreiwilligkeiten oder welche Fernsehserie gerade ihren Interessen am nächsten kommt. Der älteste Sohn ist besonders
+enthusiastisch bei der Beschreibung seiner kürzesten Geschwindigkeit im Fahrradrennen.
+
+Auf dem Teller befindet sich ein perfekt zubereitetes Essen, das für jedes Familienmitglied genau passend ist. Die Mutter hat
+den Tag damit verbracht, die Rezepte genau zu überprüfen und sicherzustellen, dass jeder etwas findet, was ihm schmeckt. Es
+gibt herzhafte Optionen wie Hammelbraten sowie vegetarische Alternativen wie zart gekochtes Gemüse.
+
+Als das Essen serviert wird, werden die Familienmitglieder sich auf die leckeren Aromas konzentrieren. Der Salat ist frisch und
+knackig, während der Hammelbraten durch das sorgfältige Zugabe von Gewürzen seinen Duft verströmt. Die Gemüseschalen sind
+cremig, ohne zu weich oder gar hart.
+
+Die Familienmitglieder beginnen, die Mahlzeit einzunehmen und Gespräche anzufangen. Sie sprechen über ihre Tage, von wichtigen
+Entdeckungen bis hin zur Erforschung neuer Interessen. Die Atmosphäre ist ruhig, nur unterbrochen durch das sanfte Radeln des
+leeren Teller auf dem Holzboden.
+
+In dieser Szene entsteht eine Atmosphäre der Nähe und Verbindung zwischen den Familienmitgliedern, die sich in der warmen
+Atmosphäre des Esszimmers begegnen. Sie teilen gemeinsame Erinnerungen, lachen über Witze oder diskutieren intensiv über
+aktuelle Themen. Es ist ein Moment voller Zuneigung und gegenseitiger Unterstützung, der eine tiefe Bindung zwischen den
+Familienmitgliedern aufzeigt.
+
+Das Abendessen wird zu einem Moment der Erholung und des Wiederkommen zur Ruhe für die Mitglieder der Familie. Der Duft von
+Früchten oder Tee verbindet sich mit dem Lächeln der Gesichter, während sie von der Erledigung ihrer Aufgaben frei sind.
+
+In diesem Moment können die Familienmitglieder einander ohne Ablenkung zugewandt sein und das Wohlwollen untereinander spüren.
+Es ist eine Zeit, in der sich tiefe Bindungen und unverbrüchliche Beziehungen zwischen den Mitgliedern der Familie
+manifestieren.
+
+Es wird deutlich, dass Abendessen nicht nur ein zeitweiliges Essen zur Befriedigung des Hungergefühls darstellt, sondern ein
+Zeichen von gegenseitiger Liebe, Wertschätzung und Respekt.
